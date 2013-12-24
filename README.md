@@ -1,4 +1,4 @@
-phpbb-upload-torrents
+phpbb-manage-torrents
 =====================
 
-Upload torrents and create a topic so moderators can approve it
+Torrent management module for phpbb
