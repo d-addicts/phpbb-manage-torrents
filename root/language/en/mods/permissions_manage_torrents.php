@@ -30,5 +30,6 @@ $lang['permission_cat']['torrents'] = 'Torrent management';
 // Adding the permissions
 $lang = array_merge($lang, array(
     'acl_u_upload_torrents'  => array('lang' => 'Can upload torrents', 'cat' => 'torrents'),
+    'acl_u_delete_torrents'  => array('lang' => 'Can delete torrents', 'cat' => 'torrents'),
 ));
 ?>

@@ -1,4 +1,4 @@
 phpbb-manage-torrents
 =====================
 
-Torrent management module for phpbb
+Torrent management module for phpBB

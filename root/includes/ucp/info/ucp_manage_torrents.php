@@ -20,8 +20,8 @@ class ucp_manage_torrents_info
             'title'      => 'Manage Torrents',
             'version'    => '0.0.3',
             'modes'      => array(
-                'upload'      => array('title' => 'UCP_UPLOAD_TORRENTS_UPLOAD_TITLE', 'auth' => 'acl_u_upload_torrents,$id', 'cat' => array('MCP_PAGE_TITLE')),
-                'delete'      => array('title' => 'UCP_UPLOAD_TORRENTS_DELETE_TITLE', 'auth' => 'acl_u_upload_torrents,$id', 'cat' => array('MCP_PAGE_TITLE')),
+                'upload'      => array('title' => 'UCP_MANAGE_TORRENTS_UPLOAD_TITLE', 'auth' => 'acl_u_upload_torrents,$id', 'cat' => array('MCP_PAGE_TITLE')),
+                'delete'      => array('title' => 'UCP_MANAGE_TORRENTS_DELETE_TITLE', 'auth' => 'acl_u_delete_torrents,$id', 'cat' => array('MCP_PAGE_TITLE')),
             ),
         );
     }

@@ -19,7 +19,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-    'UCP_UPLOAD_TORRENTS_UPLOAD_TITLE'   => 'Upload Torrents',
-    'UCP_UPLOAD_TORRENTS_DELETE_TITLE'   => 'Delete Torrents',
+    'UCP_MANAGE_TORRENTS_UPLOAD_TITLE'   => 'Upload Torrents',
+    'UCP_MANAGE_TORRENTS_DELETE_TITLE'   => 'Delete Torrents',
 ));
 ?>

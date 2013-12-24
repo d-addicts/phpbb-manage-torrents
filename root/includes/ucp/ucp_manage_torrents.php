@@ -12,11 +12,16 @@ class ucp_manage_torrents
     {
         global $db, $user, $auth, $template;
         global $config, $phpbb_root_path, $phpbb_admin_path, $phpEx;
+
         switch($mode)
         {
-            case 'index':
-            $this->page_title = 'MCP_FOO';
-            $this->tpl_name = 'mcp_foo';
+            case 'delete':
+                $this->page_title = 'MCP_FOO';
+                $this->tpl_name = 'ucp_manage_torrents_delete';
+            break;
+            case 'upload':
+                $this->page_title = 'MCP_FOO';
+                $this->tpl_name = 'ucp_manage_torrents_upload';
             break;
         }
     }
