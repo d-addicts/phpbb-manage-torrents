@@ -55,6 +55,8 @@
 			<file from="root/language/en/mods/info_ucp_manage_torrents.php" to="language/en/mods/info_ucp_manage_torrents.php"/>
 			<file from="root/language/en/mods/permissions_manage_torrents.php" to="language/en/mods/permissions_manage_torrents.php"/>
 			<file from="root/styles/subsilver2/template/ucp_manage_torrents.html" to="styles/subsilver2/template/ucp_manage_torrents.html"/>
+			<file from="root/styles/subsilver2/template/ucp_manage_torrents_delete.html" to="styles/subsilver2/template/ucp_manage_torrents_delete.html"/>
+			<file from="root/styles/subsilver2/template/ucp_manage_torrents_upload.html" to="styles/subsilver2/template/ucp_manage_torrents_upload.html"/>
         </copy>
         <diy-instructions lang="en"><![CDATA[test hi
 there
