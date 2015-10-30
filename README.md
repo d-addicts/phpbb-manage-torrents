@@ -1,3 +1,6 @@
+DEPRECATED - [torrents gone](http://www.d-addicts.com/forums/viewtopic.php?f=2&t=160259#p1705370)
+======
+
 phpbb-manage-torrents
 =====================
 
